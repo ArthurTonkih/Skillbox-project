@@ -20,7 +20,7 @@ while ($row = mysqli_fetch_assoc($result))
 ?>
 	<div class="search-box">
 		<form class="search" method="GET">
-			<input type="search" name="search" placeholder="Поиск.." class="search-txt">
+			<input type="search" name="search" placeholder="Поиск.." autocomplete="off" class="search-txt">
 			<a href="#" class="search-btn"><i class="fa fa-search" aria-hidden="true"></i></a>
 		</form>
 	</div>
