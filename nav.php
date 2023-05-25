@@ -38,7 +38,7 @@ if (isset($_GET['logout'])) {
 	
 	<div class="navbar">
 		<div class="container">
-			<a href="#" class="navbar-brand">Skypro</a>
+			<a href="#" class="navbar-brand">Skillbox</a>
 			<div class="navbar-wrap">
 				<ul class="navbar-menu">
 					<li><a href="index.php">Курсы</a></li>
